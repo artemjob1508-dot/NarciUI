@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: NarciUI Example
+## Notes: Пример плагина для NarciUI
+## Author: NarciUI
+## Version: 1.0
+## Dependencies: NarciUI
+
+Example.lua

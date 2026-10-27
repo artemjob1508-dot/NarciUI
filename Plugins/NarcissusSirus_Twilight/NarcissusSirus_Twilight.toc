@@ -1,0 +1,12 @@
+## Interface: 30300
+## Title: NarciUI Twilight
+## Notes: Готовый интерфейс для NarciUI: тёмные панели с сиреневой полосой
+## Author: NarciUI
+## Version: 1.0
+## Dependencies: NarciUI
+
+Core.lua
+Panels.lua
+UnitFrames.lua
+Meter.lua
+Extras.lua
